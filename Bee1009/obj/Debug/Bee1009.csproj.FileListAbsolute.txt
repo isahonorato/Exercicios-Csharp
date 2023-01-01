@@ -1,0 +1,8 @@
+C:\Users\isabe\source\repos\Bee1009\Bee1009\bin\Debug\Bee1009.exe.config
+C:\Users\isabe\source\repos\Bee1009\Bee1009\bin\Debug\Bee1009.exe
+C:\Users\isabe\source\repos\Bee1009\Bee1009\bin\Debug\Bee1009.pdb
+C:\Users\isabe\source\repos\Bee1009\Bee1009\obj\Debug\Bee1009.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Bee1009\Bee1009\obj\Debug\Bee1009.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Bee1009\Bee1009\obj\Debug\Bee1009.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Bee1009\Bee1009\obj\Debug\Bee1009.exe
+C:\Users\isabe\source\repos\Bee1009\Bee1009\obj\Debug\Bee1009.pdb
