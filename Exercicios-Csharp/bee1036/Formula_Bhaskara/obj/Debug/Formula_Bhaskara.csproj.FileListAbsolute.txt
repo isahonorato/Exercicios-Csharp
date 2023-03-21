@@ -1,0 +1,8 @@
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\bin\Debug\Formula_Bhaskara.exe.config
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\bin\Debug\Formula_Bhaskara.exe
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\bin\Debug\Formula_Bhaskara.pdb
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\obj\Debug\Formula_Bhaskara.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\obj\Debug\Formula_Bhaskara.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\obj\Debug\Formula_Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\obj\Debug\Formula_Bhaskara.exe
+C:\Users\isabe\source\repos\Formula_Bhaskara\Formula_Bhaskara\obj\Debug\Formula_Bhaskara.pdb

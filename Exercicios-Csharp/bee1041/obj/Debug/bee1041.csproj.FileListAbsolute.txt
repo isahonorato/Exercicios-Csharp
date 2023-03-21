@@ -1,0 +1,8 @@
+C:\ExerciciosCSharp\bee1041\bin\Debug\bee1041.exe.config
+C:\ExerciciosCSharp\bee1041\bin\Debug\bee1041.exe
+C:\ExerciciosCSharp\bee1041\bin\Debug\bee1041.pdb
+C:\ExerciciosCSharp\bee1041\obj\Debug\bee1041.csproj.AssemblyReference.cache
+C:\ExerciciosCSharp\bee1041\obj\Debug\bee1041.csproj.SuggestedBindingRedirects.cache
+C:\ExerciciosCSharp\bee1041\obj\Debug\bee1041.csproj.CoreCompileInputs.cache
+C:\ExerciciosCSharp\bee1041\obj\Debug\bee1041.exe
+C:\ExerciciosCSharp\bee1041\obj\Debug\bee1041.pdb

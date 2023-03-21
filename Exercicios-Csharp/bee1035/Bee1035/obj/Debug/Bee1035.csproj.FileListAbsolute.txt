@@ -1,0 +1,8 @@
+C:\Users\isabe\source\repos\Bee1035\Bee1035\bin\Debug\Bee1035.exe.config
+C:\Users\isabe\source\repos\Bee1035\Bee1035\bin\Debug\Bee1035.exe
+C:\Users\isabe\source\repos\Bee1035\Bee1035\bin\Debug\Bee1035.pdb
+C:\Users\isabe\source\repos\Bee1035\Bee1035\obj\Debug\Bee1035.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Bee1035\Bee1035\obj\Debug\Bee1035.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Bee1035\Bee1035\obj\Debug\Bee1035.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Bee1035\Bee1035\obj\Debug\Bee1035.exe
+C:\Users\isabe\source\repos\Bee1035\Bee1035\obj\Debug\Bee1035.pdb

@@ -1,0 +1,8 @@
+C:\Users\isabe\source\repos\Bee1044\bin\Debug\Bee1044.exe.config
+C:\Users\isabe\source\repos\Bee1044\bin\Debug\Bee1044.exe
+C:\Users\isabe\source\repos\Bee1044\bin\Debug\Bee1044.pdb
+C:\Users\isabe\source\repos\Bee1044\obj\Debug\Bee1044.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Bee1044\obj\Debug\Bee1044.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Bee1044\obj\Debug\Bee1044.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Bee1044\obj\Debug\Bee1044.exe
+C:\Users\isabe\source\repos\Bee1044\obj\Debug\Bee1044.pdb

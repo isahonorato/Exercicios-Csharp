@@ -1,0 +1,16 @@
+C:\Users\isabe\source\repos\Bee1012\Bee1012\obj\Debug\Bee1012.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Bee1012\Bee1012\obj\Debug\Bee1012.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Bee1012\Bee1012\obj\Debug\Bee1012.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Bee1012\Bee1012\bin\Debug\Bee1012.exe.config
+C:\Users\isabe\source\repos\Bee1012\Bee1012\bin\Debug\Bee1012.exe
+C:\Users\isabe\source\repos\Bee1012\Bee1012\bin\Debug\Bee1012.pdb
+C:\Users\isabe\source\repos\Bee1012\Bee1012\obj\Debug\Bee1012.exe
+C:\Users\isabe\source\repos\Bee1012\Bee1012\obj\Debug\Bee1012.pdb
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\bin\Debug\Bee1012.exe.config
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\bin\Debug\Bee1012.exe
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\bin\Debug\Bee1012.pdb
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\obj\Debug\Bee1012.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\obj\Debug\Bee1012.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\obj\Debug\Bee1012.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\obj\Debug\Bee1012.exe
+C:\Users\isabe\source\repos\Area-Bee1012\Bee1012\obj\Debug\Bee1012.pdb

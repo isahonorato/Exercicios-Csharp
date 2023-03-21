@@ -1,0 +1,8 @@
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\bin\Debug\Bee1048_AumentoSalario.exe.config
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\bin\Debug\Bee1048_AumentoSalario.exe
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\bin\Debug\Bee1048_AumentoSalario.pdb
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\obj\Debug\Bee1048_AumentoSalario.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\obj\Debug\Bee1048_AumentoSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\obj\Debug\Bee1048_AumentoSalario.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\obj\Debug\Bee1048_AumentoSalario.exe
+C:\Users\isabe\source\repos\Bee1048_AumentoSalario\obj\Debug\Bee1048_AumentoSalario.pdb
